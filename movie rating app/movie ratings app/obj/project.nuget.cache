@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HI1UGt2pTN2ARUup1E5S10nhDdaopXWUuNB0qlz7747Tz16VlG5Eoj7AnnqbL1AWcPYU/iu5x9lod9Z8w6i1Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kiko\\Documents\\GitHub\\Movie rating app\\movie ratings app\\movie ratings app\\movie ratings app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kiko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kiko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Kiko\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

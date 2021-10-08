@@ -1,0 +1,2 @@
+C:\Users\Kiko\Documents\GitHub\Movie rating app\movie ratings app\movie ratings app\obj\Debug\netstandard2.0\movie ratings app.csproj.AssemblyReference.cache
+C:\Users\Kiko\Documents\GitHub\Movie rating app\movie ratings app\movie ratings app\obj\Debug\netstandard2.0\movie ratings app.GeneratedMSBuildEditorConfig.editorconfig
