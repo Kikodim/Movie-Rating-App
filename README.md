@@ -1,2 +1,4 @@
 # Movie-rating-app
-Movie rating app made in xamarin.forms using collecitonview and mvvm.
+Movie rating app made in xamarin.forms using CollectionView and MVVM.
+This is my first ever xamarin app.
+
